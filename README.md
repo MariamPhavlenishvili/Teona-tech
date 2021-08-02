@@ -9,11 +9,13 @@
 * Having a successful startup - <a href="https://www.facebook.com/300tsavleblo">300წავლებლო :yellow_circle: 300tsavleblo </a> (it's educational startup) :raised_hands:
 * Winning Grace Hopper award :trophy:
 
+### Winner of BTU Startup demo day 🏆
 
 #### Contact me :handshake:	
 
 * <a href="https://www.facebook.com/teona.porchkhidze.7545/">Facebook</a>
 * <a href="https://www.linkedin.com/in/teona-porchkhidze-b757b81b3/">LinkedIn</a>
+
 
 #### Skills :dart:
 
