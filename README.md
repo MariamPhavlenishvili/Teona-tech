@@ -2,10 +2,10 @@
 ##### Junior Frontend Developer
 
  
- <img src=""> | Hello, I am Teona, 20 years old, Startuper and Junior Frontend Developer, who has passion to study programming and use it in a creative way...
+ <img src="https://ibb.co/JQQspp1"> | Hello, I am Teona, 20 years old, Startuper and Junior Frontend Developer, who has passion to study programming and use it in a creative way...
  ------------ | -------------
 ## my goals in 2021-2022 🔥🔥🔥
-* Teona as a Full Stack Developer in EPAM :computer:	
+* Teona as a Full Stack Developer :computer:	
 * Having a successful startup - <a href="https://www.facebook.com/300tsavleblo">300წავლებლო :yellow_circle: 300tsavleblo </a> (it's educational startup) :raised_hands:
 * Winning Grace Hopper award :trophy:
 
