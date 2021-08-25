@@ -20,16 +20,19 @@
 #### Skills :dart:
 
 <div align="center">
-<img width=50px src="=https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/69316430_105309520840908_7886975276029050880_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8CZ8Y4joTA0AX-J4OWk&_nc_ht=scontent.ftbs5-2.fna&oh=575899a009212f680cf231d7a3fb655b&oe=614BE47B">
-<img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t31.18172-8/15676033_895560890581516_6410598526344675319_o.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=M2F7cE1PqDAAX_suOuN&_nc_ht=scontent.ftbs5-2.fna&oh=968a226854785801550c812e6bb1063a&oe=614C218E">
-<img width=75px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/69316430_105309520840908_7886975276029050880_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8CZ8Y4joTA0AX-J4OWk&_nc_ht=scontent.ftbs5-2.fna&oh=575899a009212f680cf231d7a3fb655b&oe=614BE47B">
-<img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.18169-9/1010076_477783955633350_1900224762_n.png?_nc_cat=109&_nc_rgb565=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=sYXJYwOodKUAX8eGtJN&_nc_ht=scontent.ftbs5-2.fna&oh=8d676ec43ba1e5195ba434f78f9c207f&oe=60EA1701">
-<img width=67px src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
+<img src="https://i.imgur.com/94n31ta.png?1" alt="HTML5" height="46" />
+<img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" alt="CSS3" height="44" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="47" />
+<img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="46">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img width=37px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
 <img width=50px src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png">
-<img width=50px src="https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.18169-9/1010076_477783955633350_1900224762_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P0KHpFKtbYgAX_ApPsV&_nc_ht=scontent.ftbs5-3.fna&oh=a5b3df6c7362df36a2cb2174eb2538a7&oe=614AFD41">
-<img width=50px src="https://sunlightmedia.org/wp-content/uploads/2017/02/git_logo-1.png">
-<img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.18169-9/13645265_10154396860566789_4855137813969521495_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=HNs6KpCSQysAX-9eIX7&_nc_ht=scontent.ftbs5-2.fna&oh=3d88bcb12882d717c1866b8bae487afc&oe=614D0294">
+
 </div>
 
 #### Code example :computer:	
