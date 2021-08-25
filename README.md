@@ -120,11 +120,11 @@ db.readAll();
 
 where? | what?
  ------------ | -------------
-<a href="http://www.geolab.edu.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/145567197_2583997071890575_6494526563535501235_n.jpg?_nc_cat=109&_nc_rgb565=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=NS4JCeO2jQAAX-gb-yV&_nc_ht=scontent.ftbs5-2.fna&oh=66bbbe91bb7da148b576cd59c1bfd91b&oe=60EF84FF"></a> | c#,Unity
-<a href="https://unilab.iliauni.edu.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/82785721_103798394508081_1561838589170417664_n.png?_nc_cat=110&_nc_rgb565=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=dVtLt9NI4n0AX-TiDPt&_nc_ht=scontent.ftbs5-2.fna&oh=99ae6a13c860e01ff48e5f0661206d3f&oe=60EFEF02"></a> | Python(Flask,NLTK)
-<a href="https://btu.edu.ge/"><img width=50px src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=DcNnWL05KywAX_aNhrK&_nc_ht=scontent.ftbs5-1.fna&oh=b85598ac9a771e5c63942823c447b268&oe=60EB4D38"></a> | IT student - BTU
-<a href="https://www.tbcitacademy.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/90989378_10157016848346188_4281205318840483840_n.png?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=xytbUNIzsYsAX89cFJe&_nc_ht=scontent.ftbs5-2.fna&oh=284af24052aebf662a152f3a1a174944&oe=60EB0570"></a> | Frontend Development
-<a href="https://start.bitcamp.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=khviJCQp9W8AX_b_Otv&_nc_ht=scontent.ftbs5-2.fna&oh=031988c8582b27809064dff717a07975&oe=60EF994A"></a> | JS basics
+<a href="http://www.geolab.edu.ge/"><img width=50px src="https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.6435-9/145567197_2583997071890575_6494526563535501235_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eIP5dqJ-xOUAX9I0RWS&_nc_ht=scontent.ftbs5-3.fna&oh=7f4027b0021e9fa6eb988a00b19c0e1a&oe=614C76BF"></a> | c#,Unity
+<a href="https://unilab.iliauni.edu.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/82785721_103798394508081_1561838589170417664_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Sq34h1_3_g8AX8hJ0Ps&_nc_ht=scontent.ftbs5-2.fna&oh=7ec13e9731fbb516b6319548a672aebc&oe=614CE0C2"></a> | Python(Flask,NLTK)
+<a href="https://btu.edu.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ev5hrq64fMIAX_56nk9&_nc_ht=scontent.ftbs5-2.fna&oh=499df9ae592bcbe2bb41a84639555325&oe=614C3378"></a> | IT student - BTU
+<a href="https://www.tbcitacademy.ge/"><img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t39.30808-6/219365098_10158163599556188_3659932507699574656_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=l6NMuEwyRh4AX9bNoki&_nc_ht=scontent.ftbs5-2.fna&oh=b18655e553e643dbbeb65b1d745ebc4d&oe=612AF296"></a> | Frontend Development
+<a href="https://start.bitcamp.ge/"><img width=50px src="https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tY65Xwi7G6wAX-A5JMJ&_nc_ht=scontent.ftbs5-3.fna&oh=15b84176f09177bcaa4ea6bc426f8b96&oe=614A90CA"></a> | JS basics
 
 #### English level
 B2-C1
