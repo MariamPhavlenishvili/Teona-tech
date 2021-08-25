@@ -22,7 +22,7 @@
 <div align="center">
 <img width=50px src="=https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/69316430_105309520840908_7886975276029050880_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8CZ8Y4joTA0AX-J4OWk&_nc_ht=scontent.ftbs5-2.fna&oh=575899a009212f680cf231d7a3fb655b&oe=614BE47B">
 <img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t31.18172-8/15676033_895560890581516_6410598526344675319_o.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=M2F7cE1PqDAAX_suOuN&_nc_ht=scontent.ftbs5-2.fna&oh=968a226854785801550c812e6bb1063a&oe=614C218E">
-<img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
+<img width=75px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/69316430_105309520840908_7886975276029050880_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8CZ8Y4joTA0AX-J4OWk&_nc_ht=scontent.ftbs5-2.fna&oh=575899a009212f680cf231d7a3fb655b&oe=614BE47B">
 <img width=50px src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.18169-9/1010076_477783955633350_1900224762_n.png?_nc_cat=109&_nc_rgb565=1&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=sYXJYwOodKUAX8eGtJN&_nc_ht=scontent.ftbs5-2.fna&oh=8d676ec43ba1e5195ba434f78f9c207f&oe=60EA1701">
 <img width=67px src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
 <img width=37px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
