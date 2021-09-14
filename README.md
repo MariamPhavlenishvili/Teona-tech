@@ -32,6 +32,8 @@
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img width=37px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
 <img width=50px src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png">
+<img src="https://i.ibb.co/FYSXqYP/image-5.png" alt="Java" height="44">
+
 
 </div>
 
