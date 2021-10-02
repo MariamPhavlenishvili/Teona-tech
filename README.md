@@ -107,10 +107,10 @@ console.log(getTable(4,5));
 
 where? | what?
  ------------ | -------------
-<img src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/242024679_416907026530548_8526390806961344184_n.png?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=3rM9QEoAPSwAX-sSC1f&_nc_ht=scontent.ftbs5-2.fna&oh=5f14f2287de7baad3980fd57354ff4ce&oe=617DF63C"> | Python(Flask,NLTK)
-<img src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BIrL2lmgDDkAX_7V1ax&_nc_ht=scontent.ftbs5-2.fna&oh=31d868b449022f7a71864a22f790681c&oe=617BA978"></a> | IT student - BTU
-<img src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t39.30808-6/219365098_10158163599556188_3659932507699574656_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eCJW2o7XORIAX_J5xTV&_nc_ht=scontent.ftbs5-2.fna&oh=8b826c361ee170c64fd2e09d55fc0a6a&oe=615C62D6"></a> | Frontend Development
-<img src="https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=txmubVOznSwAX-ft-HW&_nc_ht=scontent.ftbs5-3.fna&oh=5c9de9d134827eb15b33f28aad0a031b&oe=617DFB4A"></a> | JS basics
+<img height="50px" src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/242024679_416907026530548_8526390806961344184_n.png?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=3rM9QEoAPSwAX-sSC1f&_nc_ht=scontent.ftbs5-2.fna&oh=5f14f2287de7baad3980fd57354ff4ce&oe=617DF63C"> | Python(Flask,NLTK)
+<img height="50px" src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BIrL2lmgDDkAX_7V1ax&_nc_ht=scontent.ftbs5-2.fna&oh=31d868b449022f7a71864a22f790681c&oe=617BA978"></a> | IT student - BTU
+<img height="50px" src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t39.30808-6/219365098_10158163599556188_3659932507699574656_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eCJW2o7XORIAX_J5xTV&_nc_ht=scontent.ftbs5-2.fna&oh=8b826c361ee170c64fd2e09d55fc0a6a&oe=615C62D6"></a> | Frontend Development
+<img height="50px" src="https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=txmubVOznSwAX-ft-HW&_nc_ht=scontent.ftbs5-3.fna&oh=5c9de9d134827eb15b33f28aad0a031b&oe=617DFB4A"></a> | JS basics
 
 #### English level
 B2-C1
