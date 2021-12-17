@@ -12,6 +12,9 @@
 ### Winner of BTU Startup demo day 🏆
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@teona.porchkhidze.2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@teona.porchkhidze.2/0" alt="Recent Article 0"> 
+ 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@teona.porchkhidze.2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@teona.porchkhidze.2/1" alt="Article 1"> 
+
 
 #### Contact me :handshake:	
 
