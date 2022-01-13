@@ -64,9 +64,9 @@
 where? | what?
  ------------ | -------------
 <img height="50px" src="https://scontent.ftbs3-2.fna.fbcdn.net/v/t39.30808-6/241852566_416907023197215_4126473183608966576_n.png?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=S4ciB5mLM0MAX92TOHk&_nc_ht=scontent.ftbs3-2.fna&oh=00_AT-uJa68nC9hwTvz-LnSIDJaX35oVf1T5YejG8_3lEY0zA&oe=61E4268B"> | Python(Flask,NLTK)
-<img height="50px" src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BIrL2lmgDDkAX_7V1ax&_nc_ht=scontent.ftbs5-2.fna&oh=31d868b449022f7a71864a22f790681c&oe=617BA978"></a> | IT student - BTU
-<img height="50px" src="https://scontent.ftbs3-1.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7AEXaMJVI3cAX--6Ouo&_nc_ht=scontent.ftbs3-1.fna&oh=00_AT_Hy9yOsspNdnhIjJ0HH4NIUcpbLkHPZs82r1EQXSfcpg&oe=620616F8"></a> | Frontend Development
-<img height="50px" src="https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=txmubVOznSwAX-ft-HW&_nc_ht=scontent.ftbs5-3.fna&oh=5c9de9d134827eb15b33f28aad0a031b&oe=617DFB4A"></a> | JS basics
+<img height="50px" src="https://scontent.ftbs3-1.fna.fbcdn.net/v/t1.6435-9/118974653_1185472291837040_8177821905411797845_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7AEXaMJVI3cAX--6Ouo&_nc_ht=scontent.ftbs3-1.fna&oh=00_AT_Hy9yOsspNdnhIjJ0HH4NIUcpbLkHPZs82r1EQXSfcpg&oe=620616F8"></a> | IT student - BTU
+<img height="50px" src="https://scontent.ftbs3-2.fna.fbcdn.net/v/t1.6435-9/90989378_10157016848346188_4281205318840483840_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BgdwN15mzRsAX9tzeWD&tn=hzbHLGN_1OrjGSg3&_nc_ht=scontent.ftbs3-2.fna&oh=00_AT_8n5LqtrHcSVn9Pld15qO8KTsXizbfbo58DEk4VkFCEA&oe=6203D4F0"></a> | Frontend Development
+<img height="50px" src="https://scontent.ftbs3-2.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=nrpgoY63PQQAX8Cf9k8&_nc_ht=scontent.ftbs3-2.fna&oh=00_AT8OV3SEJVuzAAcDTachQhvvbEK-vxyUcybZG2bNUMggpg&oe=6204744A"></a> | JS basics
 
 #### English level
 B2-C1
