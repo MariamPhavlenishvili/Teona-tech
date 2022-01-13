@@ -20,6 +20,10 @@
 
 * <a href="https://www.facebook.com/teona.porchkhidze.7545/">Facebook</a>
 * <a href="https://www.linkedin.com/in/teona-porchkhidze-b757b81b3/">LinkedIn</a>
+* <a href="https://www.instagram.com/teodora_techie/">Instagram</a>
+* <a href="https://opensea.io/collection/programmer-loves?fbclid=IwAR3rE7Yzhff5cHsVdHmaCmVLWmvl2SnC_Pr95LcaE0lg8Bnp4I9wLC8y9ws&__cf_chl_jschl_tk__=SRomuO5lvMXSHWuzlKSpnMp.YZbqAHfdIgILI1mzHNw-1641744483-0-gaNycGzNC30">openSea</a>
+
+
 
 
 #### Skills :dart:
