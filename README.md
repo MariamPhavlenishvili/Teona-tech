@@ -42,60 +42,7 @@
 
 </div>
 
-#### Code example :computer:	
 
-```
-
-var num = 1;
-
-function makeTable(row,colum){
-    let arr =[];
-    let num = 0;
-    for (var i=0;i<row;i++){
-        arr.push([]);
-        for (var k=0;k<colum;k++){
-            arr[i][k]=num;
-            
-        }
-    }
-    return arr;
-
-}
-
-function fillRow(table,column){
-    var len = table.length;
-    if (column % 2 === 0){
-        for (let i = 0; i < len; i++){
-            table[i][column]=num;
-            num++;
-        }
-    }else{
-        for (let i = len-1; i>=0; i--){
-            table[i][column]=num;
-            num++;
-        }
-    }
-   
-    return table;
-}
-
-function fillColumns(column,table){
-    for (let i = 0; i < column; i ++){
-        table=fillRow(table,i);
-    }
-    return table;
-}
-
-function getTable(row,column){
-    var table = makeTable(row,column);
-    return fillColumns(column,table);
-}
-
-
-
-console.log(getTable(4,5));
-
-```
 
 #### Experience :briefcase:	
 
